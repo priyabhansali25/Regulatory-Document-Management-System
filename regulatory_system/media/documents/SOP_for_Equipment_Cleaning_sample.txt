@@ -1,0 +1,31 @@
+**Title:** SOP for Equipment Cleaning
+
+**1. Purpose**
+To define the procedure for cleaning medical equipment to ensure safety and hygiene.
+
+**2. Scope**
+Applicable to all equipment used in the production and testing areas.
+
+**3. Responsibilities**
+
+* QA Team: Ensure compliance
+* Operator: Perform cleaning as per SOP
+
+**4. Procedure**
+
+1. Switch off the equipment.
+2. Disconnect from power supply.
+3. Clean surfaces using approved disinfectant.
+4. Dry using clean cloth.
+5. Record the cleaning activity in logbook.
+
+**5. Precautions**
+
+* Do not use excessive liquid.
+* Wear gloves while cleaning.
+
+**6. Records**
+Cleaning Log Sheet
+
+**7. Revision History**
+Version 1.0 – Initial Release

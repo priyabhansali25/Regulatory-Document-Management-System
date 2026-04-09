@@ -1,0 +1,26 @@
+**Title:** IFU for Digital Thermometer
+
+**1. Purpose**
+This device is intended to measure human body temperature accurately.
+
+**2. Instructions for Use**
+
+* Switch on the thermometer by pressing the power button.
+* Place the tip under the tongue or armpit.
+* Wait until the beep sound is heard.
+* Read the temperature displayed on the screen.
+
+**3. Safety Precautions**
+
+* Do not use the device if it is damaged.
+* Keep out of reach of children.
+* Clean the device before and after use.
+
+**4. Storage Conditions**
+
+* Store in a cool and dry place.
+* Avoid direct sunlight.
+
+**5. Manufacturer Details**
+Demo Healthcare Pvt. Ltd.
+India

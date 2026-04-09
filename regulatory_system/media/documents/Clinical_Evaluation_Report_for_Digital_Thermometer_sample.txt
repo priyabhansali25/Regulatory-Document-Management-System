@@ -1,0 +1,29 @@
+**Title:** Clinical Evaluation Report for Digital Thermometer
+
+**1. Objective**
+To evaluate the clinical performance and safety of the digital thermometer.
+
+**2. Device Description**
+A digital thermometer used to measure human body temperature.
+
+**3. Clinical Data**
+
+* Accuracy: ±0.1°C
+* Response Time: 10 seconds
+* Tested on 50 subjects
+
+**4. Risk Assessment**
+
+* Low risk device
+* No serious adverse events reported
+
+**5. Conclusion**
+The device is safe and performs as intended.
+
+**6. References**
+
+* ISO 13485
+* ISO 14971
+
+**7. Approval**
+Approved by QA Department
